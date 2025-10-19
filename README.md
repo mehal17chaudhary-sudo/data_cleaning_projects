@@ -1,3 +1,8 @@
+Raw_housing_dataset.csv :- original unprocesses datasets (CSV format).
+Clean_housing_dataset.csv :- processes datasets ready for analysis (CSV format).
+
+This dataset is prepare for the regression model.
+
 Steps Performed :- 
 
 1. Data Sampling:
