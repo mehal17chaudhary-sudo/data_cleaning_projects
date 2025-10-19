@@ -1,4 +1,5 @@
 Raw_housing_dataset.csv :- original unprocesses datasets (CSV format).
+
 Clean_housing_dataset.csv :- processes datasets ready for analysis (CSV format).
 
 This dataset is prepare for the regression model.
@@ -24,8 +25,8 @@ Converted values into standardized and encoded form using StandardScaler and app
 5. Feature Engineering:
 Created new derived columns to enhance data insights and model input, such as:
 
-price_log (log transformation of price)
+     a) price_log (log transformation of price)
 
-has_renovated (binary feature from renovation year)
+     b) has_renovated (binary feature from renovation year)
 
-etc. (additional engineered or transformed features improving interpretability and model effectiveness)
+     c) etc. (additional engineered or transformed features improving interpretability and model       effectiveness)
